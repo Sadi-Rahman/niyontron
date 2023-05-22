@@ -1,6 +1,15 @@
 # Niyontron
 
-## Folder Structure 
+## Table of Content
+
+- [Folder Structure](#Folder-Structure)
+  - [Asset](#Asset)
+  - [Controller](#Controller)
+  - [View](#View)
+- [Branch](#Branch)
+
+## Folder Structure
+
 The folder structure was taught in Web Development course. It is a basic structure and we can update and evolve as we progress.
 
 ### Asset
@@ -18,3 +27,5 @@ This will be the frontend of the website and will contain the HTML, JS.
 ### Model
 
 The data that are uploaded or downloaded are will be in this folder. Right now we will use this as testing purpose. Uploading image or file in the website, we can emulate this folder as server and the uploaded files will be saved here.
+
+## Branch
